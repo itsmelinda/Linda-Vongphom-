@@ -1,4 +1,4 @@
-# Student Bio-
+# Student Bio
 Biography 
 <DOCTYPE html>
   <html lang="en">
